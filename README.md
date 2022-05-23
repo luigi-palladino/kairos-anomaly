@@ -32,4 +32,4 @@ Run *\*.ipynb* notebooks to replicate results and understand how the code works 
 Refer to 'slides.pptx' for a full report on activities made in this project.
 
 #### Explainability part will be inserted in Luigi Palladino's  final dissertation:
-*Increasing trustworthiness of deep learning models in high-risk applications with explainable-AI*
+"*Increasing trustworthiness of deep learning models in high-risk applications with explainable-AI*"
