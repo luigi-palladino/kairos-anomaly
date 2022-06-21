@@ -33,3 +33,8 @@ Refer to 'slides.pptx' for a full report on activities made in this project.
 
 #### Explainability part will be inserted in Luigi Palladino's  final dissertation:
 "*Increasing trustworthiness of deep learning models in high-risk applications with explainable-AI*"
+
+*Acknowledgments:*
+
+
+Inspired by: https://curiousily.com/posts/time-series-anomaly-detection-using-lstm-autoencoder-with-pytorch-in-python/
