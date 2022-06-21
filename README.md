@@ -26,7 +26,7 @@ Creation of a separated venv/conda environment is encouraged.
 Run *\*.ipynb* notebooks to replicate results and understand how the code works to deploy in an application:
 - *train.ipynb* for training
 - *test.ipynb* for results testing
-- *dataset_preprocessing* to understand how to apply pre-processing from csv files to acquired ROS packages.
+- *dataset_preprocessing* folder to understand how to apply pre-processing from csv files to acquired ROS packages.
 - *explainability.ipynb* for investigation of anomalies causes using SHAP (coming soon).
 
 Refer to 'slides.pptx' for a full report on activities made in this project.
