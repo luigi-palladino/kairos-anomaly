@@ -7,6 +7,8 @@ Project for *Mobile Robotics* course *@UniVr - A.Y. 2021/2022*
 
 Thanks to Francesco Trotti for providing data from Kairos robot.
 
+Refer to 'slides.pdf' for a full report on activities made in this project.
+
 ### Brief Description:
 - Deep Learning based algorithm for anomaly detection on mobile robot Kairos.
 - Data collected are timeseries recorded from ROS topic publication of packages.
@@ -29,7 +31,7 @@ Run *\*.ipynb* notebooks to replicate results and understand how the code works 
 - *dataset_preprocessing* folder to understand how to apply pre-processing from csv files to acquired ROS packages.
 - *explainability.ipynb* for investigation of anomalies causes using SHAP (coming soon).
 
-Refer to 'slides.pptx' for a full report on activities made in this project.
+
 
 #### Explainability part will be inserted in Luigi Palladino's  final dissertation:
 "*Increasing trustworthiness of deep learning models in high-risk applications with explainable-AI*"
