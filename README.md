@@ -9,6 +9,9 @@ Thanks to Francesco Trotti for providing data from Kairos robot.
 
 Refer to 'slides.pdf' for a full report on activities made in this project.
 
+![Cover](cover.png "Cover")
+
+
 ### Brief Description:
 - Deep Learning based algorithm for anomaly detection on mobile robot Kairos.
 - Data collected are timeseries recorded from ROS topic publication of packages.
